@@ -1,2 +1,0 @@
-# cozy-experience
-Portfolio website 
