@@ -367,10 +367,10 @@ header{
 　flex-wrap: wrap;
   width:100%;
   height: auto;
-  align-items: flex-start;
 }
 
 .garally-container img{
+　align-items: flex-start;
   width:33.3333%;
 }
 
