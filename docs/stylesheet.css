@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  font-family: "serif" ;
 }
 
 body {
@@ -49,7 +50,6 @@ body {
 	display:inline-block;
 	cursor:pointer;
 	color:#707070;
-	font-family:Arial;
 	font-size:18px;
 	padding:6px 50px;
 	text-decoration:none;
@@ -240,7 +240,6 @@ header{
 	display:inline-block;
 	cursor:pointer;
 	color:#707070;
-	font-family:Arial;
 	font-size:18px;
 	padding:6px 50px;
 	text-decoration:none;
@@ -483,7 +482,6 @@ footer img{
 	display:inline-block;
 	cursor:pointer;
 	color:white;
-	font-family:Arial;
 	font-size:18px;
 	padding:6px 50px;
 	text-decoration:none;
