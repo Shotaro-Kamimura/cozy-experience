@@ -261,14 +261,7 @@
   }
 
 
-/* Garally */
-.garally-container{
-  display: flex;
-　flex-wrap: wrap;
-  align-items:  flex-start;
-  width:100%;
-}
-  
+/* Garally */  
 .garally-container img{
   width:100%;
 }
