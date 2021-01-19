@@ -262,6 +262,13 @@
 
 
 /* Garally */  
+  
+.garally-container{
+  display: flex;
+  height: auto;
+  align-items: flex-start;
+}
+  
 .garally-container img{
   width:100%;
 }
