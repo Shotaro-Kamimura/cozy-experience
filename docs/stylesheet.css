@@ -317,7 +317,6 @@ header{
 }
 
 .cozyspace2-message{
-
   margin-top:5%;
   width:25%;
 }
@@ -367,6 +366,8 @@ header{
   display: flex;
 　flex-wrap: wrap;
   width:100%;
+  height: auto;
+  align-items: flex-start;
 }
 
 .garally-container img{
